@@ -15,17 +15,18 @@ this code can only execute using internet connection
 
 School chatbot
 Problem Statement:
+
 Create a simple Python-based school chatbot that allows students to make inquiries and provides responses based on pre-defined responses. 
 Additionally, the chatbot should have a function to save the inquiries and their corresponding responses for future reference.
 
 Key Features:
 
-Students can input inquiries to the chatbot.
-The chatbot provides predefined responses to common questions.
-The chatbot should be able to handle various inquiries about school-related topics.
-Implement a function to save the inquiries and responses to a file for future reference.
-The chatbot should be user-friendly and easy to interact with.
-Your Python code should encompass the features mentioned in the problem statement.
+-> Students can input inquiries to the chatbot.
+-> The chatbot provides predefined responses to common questions.
+-> The chatbot should be able to handle various inquiries about school-related topics.
+-> Implement a function to save the inquiries and responses to a file for future reference.
+-> The chatbot should be user-friendly and easy to interact with.
+-> Your Python code should encompass the features mentioned in the problem statement.
 
 
 
