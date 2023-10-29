@@ -22,11 +22,15 @@ Additionally, the chatbot should have a function to save the inquiries and their
 Key Features:
 
 Students can input inquiries to the chatbot.
+
 The chatbot provides predefined responses to common questions.
+
 The chatbot should be able to handle various inquiries about school-related topics.
+
 Implement a function to save the inquiries and responses to a file for future reference.
+
 The chatbot should be user-friendly and easy to interact with.
-Your Python code should encompass the features mentioned in the problem statement.
+
 
 
 
